@@ -3,7 +3,6 @@
 -----------------------
 - OOps concepts,Abstraction,Encapsulsation,Inheritence and Polymorphisam ? Explain with an example
 - Why Object oriented programming?
-- How does HashMap internal Working/Implementation ?
 - What Interceptor Design Pattern and Filter concept?
 - What is Proxy Design pattern and use case?
 - How do you sort elements in Java?
@@ -16,6 +15,8 @@
 - What problem the MVC Design pattern solves?**
 - Why String is Immutable class?
 - What are Functional interface?
+- How does HashMap internal Working/Implementation ?
+- Difference between HashMap vs Hashtable? 
 - What are Supplier,Consumer,Fuctional and Predicate in Java?
 
 
