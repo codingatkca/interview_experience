@@ -24,7 +24,7 @@
 - @Component vs @Bean
 - @RestController vs @Controller
 - DI vs IOC(Invesrion of Control)
-- What are Join point and point cuts?
+- What are Join point and point cuts in AOP?
 - What is Compile time weaving and Runtime weaveing?
 - What @Asynch in Spring
 - Can Rest Webservice Supports other Prortocol ?
