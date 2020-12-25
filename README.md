@@ -55,7 +55,7 @@
 - What is Normalisaton and Denormalisation in Database?
 - What are Psedo columns in Databse?
 - What is execution plan and Cost of operation in database?
-
+- What are Pseudocolumn in Database?
 ## Frontend Questions
 - Difference between Angular vs React
 - Difference between Promise vs Observable in Javascript?
