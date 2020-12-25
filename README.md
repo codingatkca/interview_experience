@@ -10,11 +10,11 @@
 7. **Design Principle of Microservice Architecture?**
 8. **How do you handle Transaction in Microservice Architecture?**
 9. **What is meant by Metaspace in Java 8?**
-10. **How will you handle OutOf Memory Exception?
-11. **How you will handle exception in Java?
-12. **Why Object oriented programming?
-13. **What are ACID properties of Database?
-14. **What are the different methods present in Object Class?
+10. **How will you handle OutOf Memory Exception?**
+11. **How you will handle exception in Java?**
+12. **Why Object oriented programming?**
+13. **What are ACID properties of Database?**
+14. **What are the different methods present in Object Class?**
 
 
 
