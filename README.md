@@ -86,3 +86,5 @@
 ## RestFull Service
 - Difference between Put vs Patch method?
 - what are idempotent methods in restfull service?
+  - Idempotent methods- GET/PUT/DELETE(Safe operation)
+  - Non Idempotent methods - POST (Non Safe operation)
