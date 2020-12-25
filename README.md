@@ -1,21 +1,19 @@
 # Interview Experience
 ## Backend Questions
 -----------------------
-1. **OOps concepts,Abstraction,Encapsulsation,Inheritence and Polymorphisam ? Explain with an example**
-2. **How does HashMap internal Working/Implementation ?**
-3. **What Interceptor Design Pattern and Filter concept?**
-4. **What is Proxy Design pattern and user case?**
-5. **How do you sort elements in Java?**
-6. **Comparable vs Comparator? When you will use which?**
-7. **Design Principle of Microservice Architecture?**
-8. **How do you handle Transaction in Microservice Architecture?**
-9. **What is meant by Metaspace in Java 8?**
-10. **How will you handle OutOf Memory Exception?**
-11. **How you will handle exception in Java?**
-12. **Why Object oriented programming?**
-13. **What are ACID properties of Database?**
-14. **What are the different methods present in Object Class?**
-15. **What problem the MVC Design pattern solves?**
+- OOps concepts,Abstraction,Encapsulsation,Inheritence and Polymorphisam ? Explain with an example
+- How does HashMap internal Working/Implementation ?
+- What Interceptor Design Pattern and Filter concept?
+- What is Proxy Design pattern and user case?
+- How do you sort elements in Java?
+- Comparable vs Comparator? When you will use which?
+- What is meant by Metaspace in Java 8?
+- How will you handle OutOf Memory Exception?
+- How you will handle exception in Java?
+- Why Object oriented programming?
+- What are ACID properties of Database?
+- What are the different methods present in Object Class?
+- What problem the MVC Design pattern solves?**
 
 
 
@@ -45,7 +43,8 @@
 
 
 ##Microservice Question
-- 
+- Design Principle of Microservice Architecture?
+- How do you handle Transaction in Microservice Architecture?
 
 ##Data Base Question
 - Function vs Stored Procedures
