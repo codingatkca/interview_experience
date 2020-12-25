@@ -15,6 +15,10 @@
 12. **Why Object oriented programming?**
 13. **What are ACID properties of Database?**
 14. **What are the different methods present in Object Class?**
+15. **What problem the MVC Design pattern solves?**
+
+
+
 
 
 
@@ -25,3 +29,31 @@
 - DI vs IOC(Invesrion of Control)
 - What are Join point and point cuts?
 - What is Compile time weaving and Runtime weaveing?
+- What @Asynch in Spring
+- Can Rest Webservice Supports other Prortocol ?
+- How will you manage new features in Restfull service?
+- How do you do Exception handling in Spring?
+- How to call Call Storedprocedure in Spring using JdbcTemplate and Jdbc?
+- How to handle cache in Spring Restfull service ?[Cache concept in Spring]
+
+
+##Hibernate Questions
+- JPA Repository VS CRUDRepository
+- Differents states of Objects in JPA
+- Difference between get vs load method?
+
+
+
+##Microservice Question
+- 
+
+##Data Base Question
+- Function vs Stored Procedures
+- When to use Cursor and loops in Database?
+- When to use index in database?
+- Difference between View vs Materialised view ?
+- What is Normalisaton and Denormalisation in Database?
+- 
+
+
+
