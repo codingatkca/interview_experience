@@ -82,3 +82,7 @@
 - How does React Router works?
 - How can I call block of Code when the list of AJAX call completes?
 - Difference between Asych Await vs Promise?
+
+## RestFull Service
+- Difference between Put vs Patch method?
+- what are idempotent methods in restfull service?
