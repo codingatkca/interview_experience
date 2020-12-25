@@ -52,7 +52,8 @@
 - When to use index in database?
 - Difference between View vs Materialised view ?
 - What is Normalisaton and Denormalisation in Database?
-- What are Psedo columns in Databse
+- What are Psedo columns in Databse?
+- What is execution plan and Cost of operation in database?
 
 ## Frontend Questions
 - Difference between Angular vs React
@@ -60,6 +61,7 @@
 - What is EventLooping in Javascript?
 - What is Event bubbling in JavaScript?
 - What is Closure in JavaScript?
+- How does Ajax call works?
 - What are heigher order functions in Javascript?
 - What are ES6 features?
 - What is Redux Thunk?
@@ -76,4 +78,5 @@
 - What is Rxjs and different operators present in Rxjs?
 - What are different React and Angular LifeCycle methods.?
 - How does React converts JSX to html?
-
+- How does React Router works?
+- How can I call block of Code when the list of AJAX call completes?
