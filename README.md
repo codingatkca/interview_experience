@@ -85,6 +85,8 @@
 
 ## RestFull Service
 - Difference between Put vs Patch method?
+  - Put Requires to send entire payload of Resporce
+  - Patch Requires only Required properties of resource[In Terms Netowrk Banwidth/Utilisation PATCH method will use very less bandwidth]
 - what are idempotent methods in restfull service?
   - Idempotent methods- GET/PUT/DELETE(Safe operation)
   - Non Idempotent methods - POST (Non Safe operation)
