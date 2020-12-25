@@ -19,7 +19,7 @@
 - What are Supplier,Consumer,Fuctional and Predicate in Java?
 
 
-##Spring Framework Questions
+## Spring Framework Questions
 - What are life cycle of spring bean?
 - @Component vs @Bean
 - @RestController vs @Controller
@@ -35,18 +35,18 @@
 - RowMapper class in Spring?
 
 
-##Hibernate Questions
+## Hibernate Questions
 - JPA Repository VS CRUDRepository
 - Differents states of Objects in JPA
 - Difference between get vs load method?
 - Different Annotation in Hibernate?
 
-##Microservice Question
+## Microservice Question
 - Design Principle of Microservice Architecture?
 - How do you handle Transaction in Microservice Architecture?
 - Zool and Hystix of Microservice?
 
-##Data Base Question
+## Data Base Question
 - Function vs Stored Procedures
 - When to use Cursor and loops in Database?
 - When to use index in database?
@@ -54,14 +54,26 @@
 - What is Normalisaton and Denormalisation in Database?
 - What are Psedo columns in Databse
 
-##Frontend Questions
+## Frontend Questions
 - Difference between Angular vs React
-- What problem Redux Solves?
-- Difference between == and ===?
-- What is Closure in JavaScript?
-- is undefined===null ?
+- Difference between Promise vs Observable in Javascript?
 - What is EventLooping in Javascript?
+- What is Event bubbling in JavaScript?
+- What is Closure in JavaScript?
+- What are heigher order functions in Javascript?
+- What are ES6 features?
+- What is Redux Thunk?
+- What problem Redux solves?
+- What is Variable Hoisting in JavaScript?
+- Difference between fetch vs Axios?
+- Difference between slice vs splice method of String?
+- In React Functional Component how to update state values ?
+- Difference between == and ===?
+- is undefined===null ?
 - What are controlled and Controlled components in React?
-- 
-
+- Pure vs Fuctional Components?
+- Life Cycle of Angular and React ?
+- What is Rxjs and different operators present in Rxjs?
+- What are different React and Angular LifeCycle methods.?
+- How does React converts JSX to html?
 
