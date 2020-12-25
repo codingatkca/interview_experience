@@ -2,6 +2,7 @@
 ## Backend Questions
 -----------------------
 - OOps concepts,Abstraction,Encapsulsation,Inheritence and Polymorphisam ? Explain with an example
+- Why Object oriented programming?
 - How does HashMap internal Working/Implementation ?
 - What Interceptor Design Pattern and Filter concept?
 - What is Proxy Design pattern and use case?
@@ -10,7 +11,6 @@
 - What is meant by Metaspace in Java 8?
 - How will you handle OutOf Memory Exception?
 - How you will handle exception in Java?
-- Why Object oriented programming?
 - What are ACID properties of Database?
 - What are the different methods present in Object Class?
 - What problem the MVC Design pattern solves?**
