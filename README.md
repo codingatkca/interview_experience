@@ -74,9 +74,10 @@
 - is undefined===null ?
 - What are controlled and Controlled components in React?
 - Pure vs Fuctional Components?
-- Life Cycle of Angular and React ?
+- Life Cycle of Angular and React(Mouting/Updating/Unmounting phase?)?
 - What is Rxjs and different operators present in Rxjs?
 - What are different React and Angular LifeCycle methods.?
 - How does React converts JSX to html?
 - How does React Router works?
 - How can I call block of Code when the list of AJAX call completes?
+- Difference between Asych Await vs Promise?
