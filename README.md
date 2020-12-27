@@ -34,6 +34,8 @@
 - How to call Call Storedprocedure in Spring using JdbcTemplate and Jdbc?
 - How to handle cache in Spring Restfull service ?[Cache concept in Spring]
 - RowMapper class in Spring?
+- Spay vs Mock in Junit
+- Difference between AssertEequal vs AssertSame?
 
 
 ## Hibernate Questions
@@ -83,8 +85,9 @@
 - How can I call block of Code when the list of AJAX call completes?
 - Difference between Asych Await vs Promise?
 - What is the difference between AOT( compiles your app at build time on the server) and JIT(compiles your app at build time on the server) in Angular?
-- Spay vs Mock in Junit
-- 
+- What difference between switchMap vs mergeMap?
+- What is difference between concatMap vs combineLatest in Observable?
+
 
 - Access token vs Refresh token in JWT
 - Saga Design pattern implementatoin?
