@@ -82,6 +82,15 @@
 - How does React Router works?
 - How can I call block of Code when the list of AJAX call completes?
 - Difference between Asych Await vs Promise?
+- What is the difference between AOT( compiles your app at build time on the server) and JIT(compiles your app at build time on the server) in Angular?
+- Spay vs Mock in Junit
+- 
+
+- Access token vs Refresh token in JWT
+- Saga Design pattern implementatoin?
+- Kafka or RabitMq Messaging services implementation
+- What is use of Weak Hashmap and Cuncurrent Hashmap?
+- Difference between CountDownLatch and Seamaphore in Java
 
 ## RestFull Service
 - Difference between Put vs Patch method?
