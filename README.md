@@ -99,8 +99,8 @@
 - Explain Protypephical inheritance in JavaScript with example?
 - Import vs Default Import in javaScript?
 - Web Workers vs Service Workers?
-
-
+- What are higher order functions in Javascript?(function Which receives function as argument or function as output-This makes Javascript more functional)
+- What are Higher oreder function in react js?.
 
 ## RestFull Service
 - Difference between Put vs Patch method?
