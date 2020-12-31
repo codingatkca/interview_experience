@@ -101,6 +101,9 @@
 - Web Workers vs Service Workers?
 - What are higher order functions in Javascript?(function Which receives function as argument or function as output-This makes Javascript more functional)
 - What are Higher oreder function in react js?.
+- What are synthetic events in Reactjs ?
+- Bind vs Applay in JavaScript?
+
 
 ## RestFull Service
 - Difference between Put vs Patch method?
