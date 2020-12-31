@@ -18,6 +18,12 @@
 - How does HashMap internal Working/Implementation ?
 - Difference between HashMap vs Hashtable? 
 - What are Supplier,Consumer,Fuctional and Predicate in Java?
+- Access token vs Refresh token in JWT
+- Saga Design pattern implementatoin?
+- Kafka or RabitMq Messaging services implementation
+- What is use of Weak Hashmap and Cuncurrent Hashmap?
+- Difference between CountDownLatch and Seamaphore in Java
+- Reverse the LinkedList elements in Java?
 
 
 ## Spring Framework Questions
@@ -58,6 +64,7 @@
 - What are Psedo columns in Databse?
 - What is execution plan and Cost of operation in database?
 - What are Pseudocolumn in Database?
+- What is meant by 2nd/3rd Normalisation form?
 ## Frontend Questions
 - Difference between Angular vs React
 - Difference between Promise vs Observable in Javascript?
@@ -75,25 +82,24 @@
 - In React Functional Component how to update state values ?
 - Difference between == and ===?
 - is undefined===null ?
-- What are controlled and Controlled components in React?
 - Pure vs Fuctional Components?
 - Life Cycle of Angular and React(Mouting/Updating/Unmounting phase?)?
 - What is Rxjs and different operators present in Rxjs?
 - What are different React and Angular LifeCycle methods.?
 - How does React converts JSX to html?
 - How does React Router works?
+- What are Higher Order Components in React?
+- What are controlled and Controlled components in React?
+- What are Sythatic Events in React?
 - How can I call block of Code when the list of AJAX call completes?
 - Difference between Asych Await vs Promise?
 - What is the difference between AOT( compiles your app at build time on the server) and JIT(compiles your app at build time on the server) in Angular?
 - What difference between switchMap vs mergeMap?
 - What is difference between concatMap vs combineLatest in Observable?
+- Explain Protypephical inheritance in JavaScript with example?
+- 
 
 
-- Access token vs Refresh token in JWT
-- Saga Design pattern implementatoin?
-- Kafka or RabitMq Messaging services implementation
-- What is use of Weak Hashmap and Cuncurrent Hashmap?
-- Difference between CountDownLatch and Seamaphore in Java
 
 ## RestFull Service
 - Difference between Put vs Patch method?
