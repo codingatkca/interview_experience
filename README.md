@@ -97,7 +97,7 @@
 - What difference between switchMap vs mergeMap?
 - What is difference between concatMap vs combineLatest in Observable?
 - Explain Protypephical inheritance in JavaScript with example?
-- 
+- Import vs Default Import in javaScript?
 
 
 
