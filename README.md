@@ -98,6 +98,7 @@
 - What is difference between concatMap vs combineLatest in Observable?
 - Explain Protypephical inheritance in JavaScript with example?
 - Import vs Default Import in javaScript?
+- Web Workers vs Service Workers?
 
 
 
