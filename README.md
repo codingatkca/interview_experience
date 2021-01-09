@@ -40,7 +40,9 @@
 - How to call Call Storedprocedure in Spring using JdbcTemplate and Jdbc?
 - How to handle cache in Spring Restfull service ?[Cache concept in Spring]
 - RowMapper class in Spring?
-- Spay vs Mock in Junit
+- Spay vs Mock in Junit[Testing]
+- How you will Test for exception thrown synarios in Junit?
+- How to test the one method return value will be fed for Other method input argument and the result need to validate?
 - Difference between AssertEequal vs AssertSame?
 
 
@@ -65,6 +67,7 @@
 - What is execution plan and Cost of operation in database?
 - What are Pseudocolumn in Database?
 - What is meant by 2nd/3rd Normalisation form?
+- How to check the duplicate records in database table?
 ## Frontend Questions
 - Difference between Angular vs React
 - Difference between Promise vs Observable in Javascript?
@@ -94,7 +97,7 @@
 - How can I call block of Code when the list of AJAX call completes?
 - Difference between Asych Await vs Promise?
 - What is the difference between AOT( compiles your app at build time on the server) and JIT(compiles your app at build time on the server) in Angular?
-- What difference between switchMap vs mergeMap?
+- What difference between switchMap vs mergeMap vs concatMap?
 - What is difference between concatMap vs combineLatest in Observable?
 - Explain Protypephical inheritance in JavaScript with example?
 - Import vs Default Import in javaScript?
