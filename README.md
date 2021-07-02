@@ -62,7 +62,7 @@
 ## Microservice Question
 - Design Principle of Microservice Architecture?
 - How do you handle Transaction in Microservice Architecture?
-- Zool and Hystix of Microservice?
+- Zuul and Hystix of Microservice?
 
 ## Data Base Question
 - Function vs Stored Procedures
