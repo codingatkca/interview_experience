@@ -24,6 +24,13 @@
 - What is use of Weak Hashmap and Cuncurrent Hashmap?
 - Difference between CountDownLatch and Seamaphore in Java
 - Reverse the LinkedList elements in Java?
+- Can you add String builder in Tree Map?
+
+## Design Pattern
+- Singleton,Factory and Prototype
+- Adapter Design pattern
+- Facade design pattern
+- Saga Design Pattern
 
 
 ## Spring Framework Questions
@@ -118,5 +125,6 @@
 
 ## Questions on Process/Workflows
 - Agile vs Water fall model?
+- Agile Terminogies-Sprint,Retrospective,Scrup Master,Product Owner,Velocity,Capacity,Grooming,Planning,Release,Deployment,?
 - What is Blue Green Deployment?
 
