@@ -115,3 +115,8 @@
 - what are idempotent methods in restfull service?
   - Idempotent methods- GET/PUT/DELETE(Safe operation)
   - Non Idempotent methods - POST (Non Safe operation)
+
+## Questions on Process/Workflows
+- Agile vs Water fall model?
+- What is Blue Green Deployment?
+
