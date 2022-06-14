@@ -1,4 +1,10 @@
 # Interview Experience
+
+## Front En Questions
+- What is closure in Java Script
+- What is function/varible hoisting in JavaScript?
+- What is diff let vs var?
+
 ## Backend Questions
 -----------------------
 - OOps concepts,Abstraction,Encapsulsation,Inheritence and Polymorphisam ? Explain with an example
