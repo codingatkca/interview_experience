@@ -1,6 +1,7 @@
 # Interview Experience
 
-## Front En Questions
+## Front End Questions
+- What are different ways of creating component in React/Angular?
 - What is closure in Java Script
 - What is function/varible hoisting in JavaScript?
 - What is diff let vs var?
