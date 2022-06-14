@@ -48,6 +48,7 @@
 - How to handle cache in Spring Restfull service ?[Cache concept in Spring]
 - RowMapper class in Spring?
 - Spay vs Mock in Junit[Testing]
+   -Spay creates actual/real object and stubs method but Mock creates fully/complete mocked object
 - How you will Test for exception thrown synarios in Junit?
 - How to test the one method return value will be fed for Other method input argument and the result need to validate?
 - Difference between AssertEequal vs AssertSame?
