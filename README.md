@@ -1,5 +1,12 @@
 # Interview Experience
 
+
+## Kafka Questions
+- What is main use case of Kafka?
+- How to define topic in Kafka?
+- Main Terminogies -False Tolarent,Hight Through Put,Replication Fator 
+
+
 ## Front End Questions
 - What are different ways of creating component in React/Angular?
 - What is closure in Java Script
