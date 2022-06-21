@@ -1,5 +1,16 @@
 # Interview Experience
 
+## SQL
+- Find the nth Heightest salary 
+
+
+## Core Java
+- Why Java has wait and notify methods in Object class
+- How do you prevent modifying the values of class via Reflection process.
+- Write Single ton class with Thread safe.
+- Name few GC algorithems
+- Do you know GC implementation?
+
 
 ## Kafka Questions
 - What is main use case of Kafka?
