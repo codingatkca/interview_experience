@@ -4,6 +4,13 @@
 - Find the nth Heightest salary 
 
 
+## Random Questions
+- @RestControllerAdvice
+- How to integrate JPA in Spring Boot
+- Sleep vs Wait 
+- How do you handle exception in spring.
+
+
 ## Core Java
 - Why Java has wait and notify methods in Object class
 - How do you prevent modifying the values of class via Reflection process.
