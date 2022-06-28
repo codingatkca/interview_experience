@@ -2,6 +2,8 @@
  - Tiny URL desgin
  - Chat mgmt system
  - Parking lot system
+ - Load Balancer use case
+ - Gateways in Architecture 
 
 
 # Interview Experience
