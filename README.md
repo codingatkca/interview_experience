@@ -1,3 +1,9 @@
+# Design Questions
+ - Tiny URL desgin
+ - Chat mgmt system
+ - Parking lot system
+
+
 # Interview Experience
 
 ## SQL
