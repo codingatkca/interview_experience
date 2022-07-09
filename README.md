@@ -110,6 +110,7 @@
 - Design Principle of Microservice Architecture?
 - How do you handle Transaction in Microservice Architecture?
 - Zuul and Hystix of Microservice?
+- Different Isolation levela and Propagation levels in Spring
 
 ## Data Base Question
 - Function vs Stored Procedures
