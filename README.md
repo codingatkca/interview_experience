@@ -1,3 +1,9 @@
+# Rest API Questions
+------------------
+ - What are indempoton methods in Rest API
+  - POST - Not indemton methods- Each time creates resource
+  - GET,PUT,HEAD,DELETE,OPTONS--Doesn't change state if we call multiple times
+   
 # Design Questions
  - Tiny URL desgin
  - Chat mgmt system
