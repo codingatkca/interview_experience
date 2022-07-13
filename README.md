@@ -1,3 +1,6 @@
+
+
+
 # Rest API Questions
 ------------------
  - What are indempoton methods in Rest API
@@ -16,6 +19,10 @@
 
 ## SQL
 - Find the nth Heightest salary 
+- Rank vs Desnk rank
+-- Union vs Union All
+-- how do you transform rows into columns
+
 
 
 ## Random Questions
