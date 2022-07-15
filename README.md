@@ -1,3 +1,9 @@
+# Ops Fundamental 
+----------------------------------
+- **Association** [two object relation ship]
+-  Assocation can be referred to as **composition** when one object owns the other object 
+-  Assocation can be referred to as **Aggregation** when one object just used other object
+
 # Latest Java 11 features
 ----------------------------
 - Running java file in single command
