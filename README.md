@@ -1,4 +1,9 @@
-
+#Latest Java 11 features
+----------------------------
+-Running java file in single command
+-New Utility methods in String class-isBlank(),isEmpty()
+-Local variable syntax for lamda parameters
+- 
 
 
 # Rest API Questions
@@ -52,6 +57,7 @@
 - What is closure in Java Script
 - What is function/varible hoisting in JavaScript?
 - What is diff let vs var?
+- Higher order function vs Higher Order components
 
 ## Backend Questions
 -----------------------
@@ -171,6 +177,8 @@
 - Bind vs Applay in JavaScript?
 ## Important Docker Commands
 --Need to be added here
+-- Docker compose.yml vs docker.yml
+
 
 
 ## RestFull Service
