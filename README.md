@@ -1,8 +1,8 @@
 # Ops Fundamental 
 ----------------------------------
 - **Association** [two object relation ship]
--  Assocation can be referred to as **composition** when one object owns the other object 
--  Assocation can be referred to as **Aggregation** when one object just used other object
+-  Assocation can be referred to as **composition** when one object owns the other object (Car owns Engin)
+-  Assocation can be referred to as **Aggregation** when one object just used other object (Team has player/School has students)
 
 # Latest Java 11 features
 ----------------------------
