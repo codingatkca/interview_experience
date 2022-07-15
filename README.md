@@ -3,7 +3,7 @@
 -Running java file in single command
 -New Utility methods in String class-isBlank(),isEmpty()
 -Local variable syntax for lamda parameters
-- HttpClient
+-HttpClient
 
 
 # Rest API Questions
