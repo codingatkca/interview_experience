@@ -17,6 +17,7 @@
  - What are indempoton methods in Rest API
   - POST - Not indemton methods- Each time creates resource
   - GET,PUT,HEAD,DELETE,OPTONS--Doesn't change state if we call multiple times( Ref- https://restfulapi.net/idempotent-rest-apis/)
+  - SOAP vs REST when to use which one ?
    
 # Design Questions
  - Tiny URL desgin
