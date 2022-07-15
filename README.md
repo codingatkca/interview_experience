@@ -1,9 +1,9 @@
 # Latest Java 11 features
 ----------------------------
--Running java file in single command
--New Utility methods in String class-isBlank(),isEmpty()
--Local variable syntax for lamda parameters
--HttpClient
+- Running java file in single command
+- New Utility methods in String class-isBlank(),isEmpty()
+- Local variable syntax for lamda parameters
+- HttpClient
 
 
 # Rest API Questions
