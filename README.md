@@ -1,6 +1,6 @@
 # Points need to learn
 - Atmoic interger and valatile
-- What are synthetic events and Higher order functions and Higher Order components
+- What are synthetic events(A synthetic event is a cross-browser wrapper around the browser's native event) and Higher order functions and Higher Order components
 - What is event looping 
 - what is props drilling in React?
 - Can i add new Cluster in kafak ?
