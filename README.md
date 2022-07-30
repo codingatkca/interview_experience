@@ -1,3 +1,10 @@
+# Points need to learn
+- Atmoic interger and valatile
+- What are synthetic events and Higher order functions and Higher Order components
+- What is event looping 
+- what is props drilling in React
+-  
+
 # Ops Fundamental 
 ----------------------------------
 - **Association** [two object relation ship]
