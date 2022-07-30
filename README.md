@@ -2,8 +2,12 @@
 - Atmoic interger and valatile
 - What are synthetic events and Higher order functions and Higher Order components
 - What is event looping 
-- what is props drilling in React
--  
+- what is props drilling in React?
+- Can i add new Cluster in kafak ?
+- How do you identifiy loop in LinkedList
+- Whar rehashing in Hashet/Hash Map?
+- How many number of Threads can executed in Cuncurrent HashMap/Hashset parally?
+- How can you decarease/reduce  network letency?
 
 # Ops Fundamental 
 ----------------------------------
