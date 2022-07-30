@@ -11,6 +11,7 @@
 - How do you design Load Balancer ?
 - What is fail fast and faile safe in Java collection?
 - How do you handle Client side load balancer and server side load balancer?
+- How does indexing works in SQL?
 
 # Ops Fundamental 
 ----------------------------------
