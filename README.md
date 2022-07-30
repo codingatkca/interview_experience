@@ -12,6 +12,8 @@
 - What is fail fast and faile safe(CopyOnWriteArrayList) in Java collection?
 - How do you handle Client side load balancer and server side load balancer?
 - How does indexing works in SQL?
+- Primitives vs Object memory allocation difference in Java?
+- What is difference betweeen MetaSpace vs permgen ?
 
 # Ops Fundamental 
 ----------------------------------
