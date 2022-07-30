@@ -10,6 +10,7 @@
 - How can you decarease/reduce  network letency?
 - How do you design Load Balancer ?
 - What is fail fast and faile safe in Java collection?
+- How do you handle Client side load balancer and server side load balancer?
 
 # Ops Fundamental 
 ----------------------------------
