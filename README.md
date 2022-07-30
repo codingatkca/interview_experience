@@ -9,7 +9,7 @@
 - How many number of Threads can executed in Cuncurrent HashMap/Hashset parally?
 - How can you decarease/reduce  network letency?
 - How do you design Load Balancer ?
-- What is fail fast and faile safe in Java collection?
+- What is fail fast and faile safe(CopyOnWriteArrayList) in Java collection?
 - How do you handle Client side load balancer and server side load balancer?
 - How does indexing works in SQL?
 
