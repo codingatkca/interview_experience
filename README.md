@@ -9,6 +9,7 @@
 - How many number of Threads can executed in Cuncurrent HashMap/Hashset parally?
 - How can you decarease/reduce  network letency?
 - How do you design Load Balancer ?
+- What is fail fast and faile safe in Java collection?
 
 # Ops Fundamental 
 ----------------------------------
