@@ -1,4 +1,5 @@
 # Points need to learn
+ - What is debouncing and throttling in  JavaScript 
 - creating custom functional interface
 - How to call difference service paralalley in Microservice architecture?
 - Atmoic interger and valatile
