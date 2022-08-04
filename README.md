@@ -14,6 +14,7 @@
 - How does indexing works in SQL?
 - Primitives vs Object memory allocation difference in Java?
 - What is difference betweeen MetaSpace vs permgen ?
+- Different React hooks(useEffect,useState)
 
 # Ops Fundamental 
 ----------------------------------
