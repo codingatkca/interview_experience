@@ -1,4 +1,10 @@
 # Points need to learn
+ - Hashmap vs CuncurrentHashmap(Fail fast vs fail safe)
+ - When to use HashMap vs LinkedHashMap?
+ - HashMap vs LinkedHashMap vs TreeMap ?
+ - SOLID design principle of Java?
+ - Difference between Bean Fatory vs Application Context container?
+ - Different Scopes available in Spring?
  - What is debouncing and throttling in  JavaScript 
 - creating custom functional interface
 - How to call difference service paralalley in Microservice architecture?
