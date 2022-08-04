@@ -1,4 +1,6 @@
 # Points need to learn
+- creating custom functional interface
+- How to call difference service paralalley in Microservice architecture?
 - Atmoic interger and valatile
 - What are synthetic events(A synthetic event is a cross-browser wrapper around the browser's native event) and Higher order functions and Higher Order components
 - What is event looping 
