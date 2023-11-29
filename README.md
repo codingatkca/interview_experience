@@ -1,4 +1,15 @@
+# Sorting Techniques
+ - Bubbule Sort
+ - Selection Sort[Minimum value moving to the begining of the Array ]-- Time Complexity- O(n^2)
+ - Heap Sort[Steps from 1 to 3]-- Time Complexity- O(nlogn)
+1.Convert Array to binary tree using level order(insert level by level)
+2.Then convert to Headp data structure by Heapify
+3. Remove the max element from the root node and keep it inside the array from the last
+   Finally Array will be sorted 
+
+
 # Java Script fundamentals 
+ ## Prototypical Inheritance in Java Script 
  - Protypical inheritance: Inheritance via prototype property in java script compared to class based approach in java
    ex:var a={type:'general'};
       var  b={
@@ -13,6 +24,7 @@
         type:'specific'
       };
     b.type--> will print as **specific**
+## Debouncing and throttling in Java Script 
 
 # Points need to learn
  - Hashmap vs CuncurrentHashmap(Fail fast vs fail safe)
