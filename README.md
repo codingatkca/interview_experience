@@ -1,3 +1,19 @@
+# Java Script fundamentals 
+ - Protypical inheritance: Inheritance via prototype property in java script compared to class based approach in java
+   ex:var a={type:'general'};
+      var  b={
+         __proto__:a
+      };
+    b.type--> will print as **general**
+      In the above code if we call type property from **b ** object it still get's the value as the property is inherited  
+ from object **a**
+ But when we tried add b object own property it will not get the value as it has it's own property from object b and it will get from that as below. 
+  var  b={
+         __proto__:a,
+        type:'specific'
+      };
+    b.type--> will print as **specific**
+
 # Points need to learn
  - Hashmap vs CuncurrentHashmap(Fail fast vs fail safe)
  - When to use HashMap vs LinkedHashMap?
