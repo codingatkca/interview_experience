@@ -1,3 +1,15 @@
+# Horizantal Scalling 
+ - Increasing the number of instance
+ - Load balancer helps to distribute load accross the instance
+ - This is more resistence to failure tolerance as we can route the request to different instance
+ - There is a posiblity of data inconsistency
+ - It's help full to scale to any level as we can increase number of instance 
+# Vertical Scalling 
+ - Increasing the physical RAM,Changing/Adding different processor or Adding multiple machines
+ - It's more prone the failure tolerance as we have only one machine and
+ - As there is only one machine there is less possibility of inconsistency
+ - Here Scaling is limited as we can increase Hardware/Ram etc to specific limit byond which we can't do any thing.
+
 # Sorting Techniques
  - Bubbule Sort
  - Selection Sort[Minimum value moving to the begining of the Array ]-- Time Complexity- O(n^2)
