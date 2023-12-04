@@ -216,7 +216,7 @@
 - Difference between Promise vs Observable in Javascript?
 - What is EventLooping in Javascript?
 - What is Event bubbling in JavaScript?
-- What is Closure in JavaScript?
+- What is Closure in JavaScript?-A closure is the combination of a function and the lexical environment within which that function was declared
 - How does Ajax call works?
 - What are heigher order functions in Javascript?
 - What are ES6 features?
