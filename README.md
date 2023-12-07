@@ -224,7 +224,7 @@
 - What problem Redux solves?
 - What is Variable Hoisting in JavaScript?
 - Difference between fetch vs Axios?
-- Difference between slice vs splice method of String?
+- Difference between slice vs splice method of String? splice-->Modifies original array but splice will not 
 - In React Functional Component how to update state values ?
 - Difference between == and ===?
 - is undefined===null ?
