@@ -156,6 +156,9 @@
 - Saga Design pattern implementatoin?
 - Kafka or RabitMq Messaging services implementation
 - What is use of Weak Hashmap and Cuncurrent Hashmap?
+- Difference between CountDownLatch vs CyclicBarrier?
+  - **CountDownLatch**: Will be used to completed main task after completing other tasks by decrementing latch count
+  - **CyclicBarrier**: Will be used to perform some task in different thread after all the threads are completing the execution 
 - Difference between CountDownLatch and Seamaphore in Java
 - Reverse the LinkedList elements in Java?
 - Can you add String builder in Tree Map?
